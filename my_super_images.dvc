@@ -1,0 +1,6 @@
+outs:
+- md5: 74931337dcb9b703734775b0327c38c1.dir
+  size: 8748379
+  nfiles: 25
+  hash: md5
+  path: my_super_images
